@@ -11,3 +11,14 @@
  */
 
 
+/**
+ * class className() {
+ *  constructor() {
+ *      this.propertyName = .....
+ *  }
+ * 
+ *  methodName() {
+ *      .....
+ *  }
+ * }
+ */
